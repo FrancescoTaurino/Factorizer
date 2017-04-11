@@ -1,2 +1,2 @@
 Applicazione Android per la fattorizzazione di un numero.
-Universitò di Verona - Corso di Verifica Automatica dei Sistemi.
+Università di Verona - Corso di Verifica Automatica dei Sistemi.
